@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Lucky</h1>
 <h3 align="center">I am a passionate Computer Science enthusiast from India with experience in Java, Microservices, Distributed Systems, Multi-threading, Reactive Programming, Software Design Patterns & Principles, and DSA.</h3>
@@ -7,11 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1997sanket&label=Profile%20views&color=0e75b6&style=flat" alt="1997sanket" /> </p>
 
-- 🔭 I’m currently working as a Java Developer. **Capgemini**
+- 🔭 I’m currently working as a Java and Selenium Test Engineer. **Capgemini**
 
 - 👨‍💻 All of my projects are available at <!-- - [1997sanket](1997sanket) -->
 
-- 💬 Ask me about **Java, Spring, Microservices, DSA, Software Design, OOP, Git, Backend Development, Multi-Threading, Reactive Programming, Distributed architectures, and Event-Driven architectures.**
+- 💬 Ask me about **Java, Spring, Microservices, DSA, Software Design, OOP, Git, Backend Development, Multi-Threading, Reactive Programming, Distributed architectures.**
+<!-- - **Java, Spring, Microservices, DSA, Software Design, OOP, Git, Backend Development, Multi-Threading, Reactive Programming, Distributed architectures, and Event-Driven architectures.** -->
 
 - 📫 How to reach me **luckymantala1231@gmail.com**
 
